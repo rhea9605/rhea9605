@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rhea J M
+- 👀 I’m interested in web development and data science
+- 🌱 Please contact me if any courses available
